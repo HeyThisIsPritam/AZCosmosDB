@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AZCosDB", "AZCosDB\AZCosDB.csproj", "{01B8DE75-B222-4D95-8ED4-37AD1810E13D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01B8DE75-B222-4D95-8ED4-37AD1810E13D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01B8DE75-B222-4D95-8ED4-37AD1810E13D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01B8DE75-B222-4D95-8ED4-37AD1810E13D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01B8DE75-B222-4D95-8ED4-37AD1810E13D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64C2365F-8928-44A1-94B9-F03DC71CAE00}
+	EndGlobalSection
+EndGlobal
